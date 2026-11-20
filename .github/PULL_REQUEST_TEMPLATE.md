@@ -39,3 +39,18 @@ For new packages please briefly describe the package or provide a link to its ho
 [nixos/tests]: https://github.com/NixOS/nixpkgs/blob/master/nixos/tests
 [pkgs/README.md]: https://github.com/NixOS/nixpkgs/blob/master/pkgs/README.md
 [pkgs/test]: https://github.com/NixOS/nixpkgs/blob/master/pkgs/test
+
+<!-- List the checks you ran and their results in Things done. Label pending checks explicitly.
+
+## Related issues and PRs
+Link related work and label dependencies “Blocked by,” “Stacked on,” or “Next in stack.”
+
+## Screenshots or video
+Show user-facing changes when visuals help reviewers.
+
+## Rollback
+Include any extra steps required beyond reverting the PR.
+
+If AI helped write this PR, add a visible line listing every model involved.
+**AI assistance** — model name, model name
+-->
